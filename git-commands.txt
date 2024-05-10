@@ -1,0 +1,4 @@
+####### GIT COMMANDS ########
+
+git init	-	initiates git in any directory
+
