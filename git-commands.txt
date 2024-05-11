@@ -1,4 +1,19 @@
 ####### GIT COMMANDS ########
 
-git init	-	initiates git in any directory
+git init			-	initiates git in any directory
+
+git add	<file name>		-	this command will add the selected files to staging process
+ 
+git add .			- 	this will add all files to the staging process
+
+git commit -m "<message>"	- 	commits all the changes in staging process
+
+git push <remote> <branch>	-	it pushes the all committed files to the given branch of the repo or 
+      					creates the branch if given branch name is not exist
+
+git status			-	this shows the list of file which are staged, unstaged & untracked
+
+git clone <url of repo>		-	clones the online repo to the local folder via http or ssh
+
+git log				-	give all the information about committed logs
 
