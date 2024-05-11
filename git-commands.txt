@@ -17,3 +17,7 @@ git clone <url of repo>		-	clones the online repo to the local folder via http o
 
 git log				-	give all the information about committed logs
 
+git config --global user.name <name>        -       sets the authur name for all commits
+
+git config --global user.email <email id>       -       sets authur email for all commits
+
